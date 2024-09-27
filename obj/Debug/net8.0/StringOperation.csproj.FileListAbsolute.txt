@@ -1,0 +1,14 @@
+C:\Users\USER\Projects\StringOperation\bin\Debug\net8.0\StringOperation.exe
+C:\Users\USER\Projects\StringOperation\bin\Debug\net8.0\StringOperation.deps.json
+C:\Users\USER\Projects\StringOperation\bin\Debug\net8.0\StringOperation.runtimeconfig.json
+C:\Users\USER\Projects\StringOperation\bin\Debug\net8.0\StringOperation.dll
+C:\Users\USER\Projects\StringOperation\bin\Debug\net8.0\StringOperation.pdb
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.AssemblyInfoInputs.cache
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.AssemblyInfo.cs
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.csproj.CoreCompileInputs.cache
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.dll
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\refint\StringOperation.dll
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.pdb
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\StringOperation.genruntimeconfig.cache
+C:\Users\USER\Projects\StringOperation\obj\Debug\net8.0\ref\StringOperation.dll
